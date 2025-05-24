@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" scale="30%">
+<img src="vesmirna_cesta_logo.png">
 </p>
 
 <div align="center">
