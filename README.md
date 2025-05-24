@@ -11,23 +11,22 @@
 
 # popis projektu
 - Textová sci-fi RPG hra napsaná v Javě
-- OOP – dědičnost
+- Obsahuje prvky OOP a GUI v Java Swing
 - Jednoduchý příběh
 - Souboje s nepřáteli založené na tahovém systému
-- Jednoduché GUI ve Swingu pro ovládání hry
 
 # popis práce
 
 - ### co jsem se naučila nového?
     - Dědičnost a přepisování metod v Javě
     - Základy Swing GUI
-    - Strukturování kódu do tříd s jasnou odpovědností
+    - Strukturování kódu do tříd
     - Tvorbu jednoduché herní logiky a stavů hry
 
 - ### co bylo nejtěžší?
-    - Propojení GUI s herní logikou a aktualizace stavů
+    - Propojení GUI s herní logikou
     - Pochopení konstruktorů a dědičnosti
-    - Java jako jazyk a jeho specifika
+    - Java..
 
 - ### zhodnocení
     - Hra funguje podle očekávání
@@ -38,10 +37,12 @@
 - Na začátku si vyberete postavu a zadáte jméno
 - Začne příběh a můžete se vydat do různých lokací
 - Probíhá tahový boj s nepřítelem
-- Stav života hráče a nepřítele se zobrazuje v okně
 - Po získání kartičky lze hru dokončit
+
+# fotky
+<img src="ukazka_hry.png">
 
 # poznámky
 - Projekt je školní práce
 - Neobsahuje inventář ani pokročilé mechanismy
-- Kód je jednoduše rozšiřitelný  
+- Kód je jednoduše rozšiřitelný
