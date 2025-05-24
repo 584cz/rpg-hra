@@ -39,7 +39,7 @@
 - Probíhá tahový boj s nepřítelem
 - Po získání kartičky lze hru dokončit
 
-# fotky
+# ukázka hry
 <img src="ukazka_hry.png">
 
 # poznámky
